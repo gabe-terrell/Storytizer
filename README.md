@@ -1,6 +1,6 @@
 # [Storytizer](http://gabe-terrell.github.io/Storytizer/) - User Aided Story Generator
 
-## Getting Started
+## Background
 
 Storytizer started as a birthday present to a good friend of mine who is an 
 avid poet. 
@@ -14,6 +14,6 @@ The story template, the placeholder names, and the placeholder lists are all
 customizable by the user, allowing for maximum creativity. 
 
 As a personal project, this project allowed me to learn more about AJAX and
-regex in Javascript. In future iterations of the project, I hope to add buttons
-to increase the number of placeholders and to allow placeholder saving to 
-localstorage. 
+regex in Javascript (as well as bring hours of entertainment to friends of 
+mine). In future iterations of the project, I hope to add buttons to increase
+the number of placeholders and to allow placeholder saving to localstorage. 
