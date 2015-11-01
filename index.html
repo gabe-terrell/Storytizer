@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Storytizer</title>
+
+    <!-- CSS -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <!-- Javascript / JQuery -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/sample_template.js"></script>
+    <script type="text/javascript" src="js/template_manager.js"></script>
+
+</head>
+
+<body class="gradient">
+    <center>
+    <h2> Storytizer </h2>
+    <table id='table' border='1' cellpadding='2' cellspacing='0'>
+        <tr>
+            <td> 
+                <input type="text" name="r1" id="r1"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l1'> </textarea> 
+            </td>
+            <td> 
+                <input type="text" name="r2" id="r2"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l2'> </textarea> 
+            </td>
+            <td> 
+                <input type="text" name="r3" id="r3"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l3'> </textarea> 
+            </td>
+            <td> 
+                <input type="text" name="r4" id="r4"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l4'> </textarea> 
+            </td>
+        </tr>
+        <tr>
+            <td> 
+                <input type="text" name="r5" id="r5"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l5'> </textarea> 
+            </td>
+            <td> 
+                <input type="text" name="r6" id="r6"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l6'> </textarea> 
+            </td>
+            <td> 
+                <input type="text" name="r7" id="r7"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l7'> </textarea> 
+            </td>
+            <td> 
+                <input type="text" name="r8" id="r8"> <br>  
+                <textarea style="width: 200px; height: 100px;" id='l8'> </textarea> 
+            </td>
+        </tr>
+        <tr>
+            <td colspan='2'> 
+                <br> Template <br>
+                <textarea style="width: 450px; height: 300px;" id='template'></textarea> 
+            </td>
+            <td colspan='2'> 
+                <br> Story <br>
+                <textarea style="width: 450px; height: 300px;" id='poem'></textarea> 
+            </td>
+        </tr>
+    </table> 
+    <input type='button' value=' Create Story ' onclick='replaceTemplates()' />
+    </center>
+</body>
+</html>
+
+</html>

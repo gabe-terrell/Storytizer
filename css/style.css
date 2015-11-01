@@ -1,0 +1,21 @@
+td { 
+    text-align: center; 
+    height: 150px; 
+    width: 300px 
+}
+
+table {
+    background-color: white;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif
+}
+
+.gradient {
+    background-color: #52B3D9;
+}
