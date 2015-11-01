@@ -1,4 +1,4 @@
-# [Storytizer](http://gabe-terrell.github.io/storytizer/) - User Aided Story Generator
+# [Storytizer](http://gabe-terrell.github.io/Storytizer/) - User Aided Story Generator
 
 ## Getting Started
 
